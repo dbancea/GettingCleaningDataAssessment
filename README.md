@@ -4,7 +4,7 @@ GettingCleaningDataAssessment
 Peer Assessment - Getting and Cleaning Data
 
 run_analysis.R - R code to clean/merge data per assigment requirement
-CODEBOOK.md    - describte the variables and data processing
+CodeBook.md    - describte the variables and data processing
 
 run_analysis - description
     It is assumed that teh data was downaoded before and uncompressed
