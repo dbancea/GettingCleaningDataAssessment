@@ -13,7 +13,7 @@ run_analysis - description
 - read the metadata files - activity and features files
 - read the observation data for training and test. There are three files, three stes of data:
 - combined the train_x and test_x and add the columns name for varbles measured using the features file/data set
-- extract only teh columns which have mean and standard deviation
+- extract only the columns which have mean and standard deviation
 - merger the activity data for test and train and assign teh actvity description to the data
 - add teh activity description to the merge data (x set with train and test) resulting data_tidy02 data set
 - merger the subject data for train and test and add teh column to teh data_tidy01 resulting data_tidy02 and add teh subject column
